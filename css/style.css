@@ -591,7 +591,16 @@ pre code {
   max-height: 340px;
   overflow-y: scroll;
 }
+.meskana {
+  background-color:#200649;
 
+}
+.cat-contain {
+  background-color:#200649;
+}
+.footer-con{
+  background-color:#200649;
+}
 .container,
 .container-fluid,
 .container-sm,
@@ -4007,6 +4016,7 @@ input[type="button"].btn-block {
   align-items: center;
   justify-content: space-between;
   padding: 0.5rem 1rem;
+  background-color: #200649;
 }
 
 .navbar .container,
